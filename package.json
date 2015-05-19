@@ -1,0 +1,14 @@
+{
+  "name": "webchat",
+  "version": "0.0.1",
+  "description": "A simple webchat application",
+  "author": "Bruno Pinho <bpinhosilva@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bpinhosilva/webchat.git"
+  },
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
